@@ -35,7 +35,7 @@ const Home = () => {
       name: 'Sarah Johnson',
       company: 'TechStart Ltd',
       rating: 5,
-      text: 'Innovatech Solutions delivered an exceptional e-commerce platform that exceeded our expectations. Their attention to detail and technical expertise is outstanding.'
+      text: 'apexbritannia delivered an exceptional e-commerce platform that exceeded our expectations. Their attention to detail and technical expertise is outstanding.'
     },
     {
       name: 'Michael Chen',
@@ -47,7 +47,7 @@ const Home = () => {
       name: 'Emma Williams',
       company: 'Creative Agency Pro',
       rating: 5,
-      text: 'From concept to deployment, Innovatech Solutions provided top-notch service. Our new website has increased our client inquiries by 300%.'
+      text: 'From concept to deployment, apexbritannia provided top-notch service. Our new website has increased our client inquiries by 300%.'
     }
   ]
 

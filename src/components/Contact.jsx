@@ -52,7 +52,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: 'info@innovatechsolutions.co.uk',
+      details: 'info@apexbritannia.co.uk',
       description: 'Send us an email and we\'ll respond within 24 hours'
     },
     {
@@ -365,7 +365,7 @@ const Contact = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary">
               <Mail className="mr-2 h-5 w-5" />
-              info@innovatechsolutions.co.uk
+              info@iapexbritannia.co.uk
             </Button>
             <Button size="lg" variant="outline" className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary">
               <Phone className="mr-2 h-5 w-5" />

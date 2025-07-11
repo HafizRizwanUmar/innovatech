@@ -59,7 +59,7 @@ const About = () => {
     {
       year: '2019',
       title: 'Company Founded',
-      description: 'Innovatech Solutions was established with a vision to bridge the gap between innovative technology and practical business solutions.'
+      description: 'apexbritannia Solutions was established with a vision to bridge the gap between innovative technology and practical business solutions.'
     },
     {
       year: '2020',
@@ -102,7 +102,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">
-              About Innovatech Solutions
+              About apexbritannia Solutions
             </h1>
             <p className="text-xl text-primary-foreground/90 max-w-3xl mx-auto">
               We are a UK-based software house dedicated to pioneering digital futures through 

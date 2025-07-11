@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
             <Link to="/" className="flex items-center space-x-2 mb-4">
-              <img src={logo} alt="Innovatech Solutions" className="h-8 w-auto filter brightness-0 invert" />
+              <img src={logo} alt="apexbritannia Solutions" className="h-8 w-auto filter brightness-0 invert" />
             </Link>
             <p className="text-primary-foreground/80 mb-4 max-w-md">
               Pioneering digital futures through innovative web development, app development, 
@@ -83,7 +83,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
           <p className="text-primary-foreground/60">
-            © 2024 Innovatech Solutions. All rights reserved.
+            © 2024 apexbritannia. All rights reserved.
           </p>
         </div>
       </div>
